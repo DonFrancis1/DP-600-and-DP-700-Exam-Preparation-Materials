@@ -16,7 +16,7 @@ https://community.fabric.microsoft.com/t5/custom/page/page-id/CareerHubPage?ocid
 1. Exam Study Guide DP 600: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-600
 2. Exam Study Guide DP 700: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-700
 3. Official Practice assessment DP 600: https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/practice/assessment?assessment-type=practice&assessmentId=90&practice-assessment-type=certification
-4. Official Practice assessment DP 700: 
+4. Official Practice assessment DP 700: https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/practice/assessment?assessment-type=practice&assessmentId=1704375541&practice-assessment-type=certification&source=docs
 
 
 ### YouTube Resources 
