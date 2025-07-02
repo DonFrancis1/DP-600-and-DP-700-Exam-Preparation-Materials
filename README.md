@@ -1,19 +1,22 @@
-# DP-600-Exam-Preparation-Materials
+# DP-600/DP-700-Exam-Preparation-Materials
 
 ## Microsoft Fabric Career Page
 https://community.fabric.microsoft.com/t5/custom/page/page-id/CareerHubPage?ocid=fabric24_careerhub_fabriccomm_header_clp&WT.mc_id=data-122180-somelezediko
 
 ### Official Documentations 
 
-1. Learning Paths: https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification
-2. Cloud Skill Challenge:  https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification
-3. Microsoft Learn Modules: https://learn.microsoft.com/en-us/training/browse/?products=fabric
-4. Product Documentation: https://learn.microsoft.com/en-us/fabric/
+1. Learning Paths DP 600: https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification
+2. Learning Path DP 700: https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification
+3. Cloud Skill Challenge:  https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification
+4. Microsoft Learn Modules: https://learn.microsoft.com/en-us/training/browse/?products=fabric
+5. Product Documentation: https://learn.microsoft.com/en-us/fabric/
 
 
 ### Study Guide & Assessment
-1. Exam Study Guide: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-600
-2. Official Practice assessment: https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/practice/assessment?assessment-type=practice&assessmentId=90&practice-assessment-type=certification
+1. Exam Study Guide DP 600: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-600
+2. Exam Study Guide DP 700: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-700
+3. Official Practice assessment DP 600: https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/practice/assessment?assessment-type=practice&assessmentId=90&practice-assessment-type=certification
+4. Official Practice assessment DP 700: 
 
 
 ### YouTube Resources 
@@ -25,8 +28,6 @@ https://community.fabric.microsoft.com/t5/custom/page/page-id/CareerHubPage?ocid
 5. PySpark Playlist: https://www.youtube.com/watch?v=dogFIhkYtSw&list=PLudtFFYa8Qiim4tGvKpk3PDx4kP7Brs__&index=3
 6. Microsoft Live series: https://www.youtube.com/playlist?list=PLmsFUfdnGr3znRatpUz3mvziHpNaEdVAT
 
-#### The Data Guy Isb Newsletters
-https://www.linkedin.com/newsletters/the-data-guy-isb-7123319093067231232/
 
 
 
